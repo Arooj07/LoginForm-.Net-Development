@@ -1,0 +1,40 @@
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.exe
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.deps.json
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.runtimeconfig.json
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.dll
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\ref\aslogin.dll
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.pdb
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.AssemblyReference.cache
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form1.resources
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form2.resources
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form3.resources
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.GenerateResource.cache
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.AssemblyInfoInputs.cache
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.AssemblyInfo.cs
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.dll
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\ref\aslogin.dll
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.pdb
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.genruntimeconfig.cache
+C:\Users\Engineer\Documents\HCC Tasks\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Properties.Resources.resources
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.exe
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.deps.json
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.runtimeconfig.json
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.dll
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\ref\aslogin.dll
+C:\Users\Engineer\Desktop\aslogin\aslogin\bin\Debug\net6.0-windows\aslogin.pdb
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.AssemblyReference.cache
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form1.resources
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form2.resources
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Form3.resources
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.Properties.Resources.resources
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.AssemblyInfoInputs.cache
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.AssemblyInfo.cs
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.dll
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\ref\aslogin.dll
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.pdb
+C:\Users\Engineer\Desktop\aslogin\aslogin\obj\Debug\net6.0-windows\aslogin.genruntimeconfig.cache
